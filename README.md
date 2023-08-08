@@ -5,7 +5,7 @@ modülleri kurmak için cmd açmanız gerekmektedir cmd de içinde npm i yazın�
 
 İLKER VE EREN ARKADAŞLARIM ADINA PAYLAŞIYORUM BURDAN İKİSİNEDE SAYGI VE SEVGİLERİMİ İLETİYORUM ONLARLA BARIŞTIĞIM İÇİN BU ALYAPIYI HERKESE PAYLAŞIYORUM İYİ GÜNLER CODER BY KRON1K.  
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1088760123645755444?hideDiscrim=true)](https://discord.com/users/1088760123645755444)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1107785047232221246)](https://discord.com/users/1107785047232221246)
 
   
  # Kurulum & İçerik 
