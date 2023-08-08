@@ -1,0 +1,7 @@
+{
+  "prefix":".",
+  "token":"botun_token_giriniz.",
+  "owners": ["botu_yapan_kişi_id_giriniz"],
+  "mongoURL": "mongodb+srv://kullanıcıadı_giriniz:sifre_giriniz@azat.4oziign.mongodb.net/?retryWrites=true&w=majority",
+  "//":"MONGO DB BAĞLANTISI YAPINIZ NASIL YAPILACAĞINI BİLMİYORSANIZ YOUTUBE DEN BAKINIZ DATABASE OLARAK YETEKLEMEYİ MONGO DB YE YAPMAKTADIR MONGO DB SİTESİ: https://www.mongodb.com/"
+}

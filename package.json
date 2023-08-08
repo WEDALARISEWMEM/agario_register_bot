@@ -1,0 +1,21 @@
+{
+  "name": "xx",
+  "version": "3.0.0",
+  "description": "se",
+  "main": "kronik.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "kronik"
+  ],
+  "author": "",
+  "license": "ISC",
+
+  "dependencies": {
+    "discord.js": "^13.0.1",
+    "fs": "^0.0.2",
+    "mongoose": "^7.3.4",
+    "path": "^0.12.7"
+  }
+}

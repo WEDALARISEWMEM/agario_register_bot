@@ -1,0 +1,28 @@
+{
+"roller": {
+    "erkek": ["erkek_üye_rol_id"],
+    "kadın": ["bayan_üye_rol_id"],
+    "Register": ["kayıt_yetkili_rol_id"],
+    "kayıtsız": "kayıtsız_rol_id_giriniz",
+    "owner":"botu_yapan_kişi_id_giriniz",
+    "Vip":"vip_rol_id_giriniz"
+}, "kanallar": {
+    "Register": "kayıt_kanal_id_giriniz",
+    "kurallar": "kurallar_kanal_id_giriniz",
+    "Chat": "sohbet_kanal_id_giriniz"
+}, "Other": {
+    "Tag": ["tag_komutunda_atacağı_tag_giriniz"],
+    "NamePrefix": "isimin_başınakoyulacak_işaret",
+    "NameSymbol": "isim_yaş_nick_arasına_koyulacak_sembol_","//":"genelde / oluyor kafanıza göre (kayıttan sonra ekler.)"
+}, "Modes": {
+    "Tag": true,"//":"elleme burayı tag sistemini açıp kapatmaya yarar gerek yok üşendim dönüştürüken ChatMessages e kadar ellemeyin lütfen herhangi bir durumda instagram kron1k.rat iletişime geçin hata durumunda",
+    "Name": true,
+    "DmMessages": false,
+    "ChatMessages": false,
+    
+    "not":{
+        "//":"herkese selamlar ben kronik üsttekilerin ne işe yaradığı hakkında ufak bir not geçeyim. Roller kurallar Other modes gibi kategoriler var kanallar olan yerlere kanal id roller olan yere rol id leri Other olan yerlere gerekli olanları giriniz modes olan yerelere true yaparsanız açık olur false yaparsanız kapalı olur iyi günler :)",
+        "//":"developed by kronik.",
+        "//":"ilker ve eren kardeşlerimle arkadaşlarımla barıştığım sebebp ile pub ediyorum bu altyapıyı TR CLAN BOMBA GİBİ GELİYORUZ :D"
+    }
+}}
