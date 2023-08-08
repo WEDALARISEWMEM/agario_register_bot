@@ -25,4 +25,4 @@ modülleri kurmak için cmd açmanız gerekmektedir cmd de içinde npm i yazın�
  # iletişim veya soru için
 
  - [Discord Profilim](https://discord.com/users/1107785047232221246)
- - [Discord adresimiz TRCLAN][(https://discord.gg/trclan)]
+ - [Discord adresimiz TRCLAN](https://discord.gg/trclan)
