@@ -20,6 +20,7 @@ modülleri kurmak için cmd açmanız gerekmektedir cmd de içinde npm i yazın�
  # Bazı Görseller  
 
 ![image](https://github.com/WEDALARISEWMEM/agario_register_bot/assets/97955568/2e01d23b-f425-4b29-95fd-08df3c2594e3)
+![image](https://github.com/WEDALARISEWMEM/agario_register_bot/assets/97955568/65159b7c-4e5a-46e6-85a3-e34416c94afd)
 
 
  # iletişim veya soru için
