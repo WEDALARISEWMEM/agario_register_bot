@@ -5,7 +5,7 @@ modülleri kurmak için cmd açmanız gerekmektedir cmd de içinde npm i yazın�
 
 İLKER VE EREN ARKADAŞLARIM ADINA PAYLAŞIYORUM BURDAN İKİSİNEDE SAYGI VE SEVGİLERİMİ İLETİYORUM ONLARLA BARIŞTIĞIM İÇİN BU ALYAPIYI HERKESE PAYLAŞIYORUM İYİ GÜNLER CODER BY KRON1K.  
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1107785047232221246)](https://discord.com/users/1107785047232221246)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1108498175653859358)](https://discord.com/users/1108498175653859358)
 
   
  # Kurulum & İçerik 
@@ -25,5 +25,5 @@ modülleri kurmak için cmd açmanız gerekmektedir cmd de içinde npm i yazın�
 
  # iletişim veya soru için
 
- - [Discord Profilim](https://discord.com/users/1107785047232221246)
+ - [Discord Profilim](https://discord.com/users/1108498175653859358)
  - [Discord adresimiz TRCLAN](https://discord.gg/trclan)
