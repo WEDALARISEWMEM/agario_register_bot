@@ -27,3 +27,4 @@ modülleri kurmak için cmd açmanız gerekmektedir cmd de içinde npm i yazın�
 
  - [Discord Profilim](https://discord.com/users/1108498175653859358)
  - [Discord adresimiz TRCLAN](https://discord.gg/trclan)
+![image](https://github.com/WEDALARISEWMEM/agario_register_bot/assets/97955568/997493ce-c198-45f2-ad2f-6c087ea6a11e) # kron1k.rat
