@@ -27,5 +27,5 @@ modülleri kurmak için cmd açmanız gerekmektedir cmd de içinde npm i yazın�
 
  - [Discord Profilim](https://discord.com/users/1108498175653859358)
  - [Discord adresimiz TRCLAN](https://discord.gg/trclan)
-https://www.instagram.com/kron1k.rat/
+- https://www.instagram.com/kron1k.rat/
  # kron1k.rat
